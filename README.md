@@ -1,7 +1,7 @@
 # Chrome Dinosaur
-#### Google Chrome dinosaur game using Ncurses in C (T-Rex)
+#### Google Chrome dinosaur game using Ncurses in ``C (T-Rex)``
 
-You can jump using the ``space`` key, and you can fire to remove obstacles when Prize is >= 1 using the ``k`` Key.
+You can jump using the ``space`` key, and you can fire 🔥 to remove obstacles when Prize is >= 1 using the ``k`` Key.
 
 ##### To compile and run:
 
